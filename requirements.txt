@@ -6,5 +6,6 @@ dash-table
 plotly
 gunicorn
 scikit-image
+scikit-learn
 pandas
 numpy
